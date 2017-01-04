@@ -1,0 +1,39 @@
+body {
+  background-color: #33F9EE;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#box {
+  width: 450px;
+  background-color: #fff;
+  border-radius: 4px;
+  margin: 10% auto auto auto;
+  overflow: auto;
+}
+#inside-box {
+  width:400px;
+  margin: 20px auto 10px auto;
+}
+#quote-box {
+  width: 400px;
+  float: left;
+}
+#quote-content {  
+  font-weight:bold;
+  font-size:30px;
+}
+#quote-author {
+  float: right;
+}
+.fa-twitter-square {
+  color: #1472E3;
+}
+.fa-pencil-square {
+  color: #E61478;
+  float: right;
+}
+.author {
+  text-align: center;
+  margin-top: 15px;
+  color: #17202A;
+  font-weight: bold;
+}
